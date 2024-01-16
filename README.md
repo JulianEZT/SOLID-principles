@@ -1,2 +1,2 @@
 # SOLID-principles
-This is a REST API to demostrate my understanding of SOLID principles. The project I built to ilustrate these principles is a REST API for storing users.
+SOLID principles is a group of patterns whose purpose is to create loosely coupled architectures with a high level of maintainability. In this project I will ilustrate these principles creating a REST API to store users of an application.
